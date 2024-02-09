@@ -1,17 +1,13 @@
-### Olá! Eu sou o Brendinha Gamer da massa, navegando do Hardware ao software, fique a vontade e uhuuuu...💻
+### Olá! Eu sou o Brendinha Gamer da massa, fique a vontade e uhuuuu...💻
 <p align="center">
 
 #
 
- Sempre no continuo aprendizado e em busca de oportunidades especialização e de crescimento. <img align="center" alt="Hq-gif2" height="20" width="30" src=https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-foguete-9.gif img/>
-
- <img align="center" alt="Hq-gif2" height="20" width="30" src=https://cdn.dribbble.com/users/660830/screenshots/5641330/ezgif.com-video-to-gif__2_.gif img/>    Cursando Análise e desenvolvimento de sistemas.
+ Sempre no continuo aprendizado e em busca de oportunidades especialização e de crescimento. 
+ Cursando Análise e desenvolvimento de sistemas.
    
-<img align="center" alt="Hq-gif2" height="20" width="30" src=https://www.imagensanimadas.com/data/media/273/chave-imagem-animada-0032.gif img/>   Suporte técnico certificado.
 
-Cursando Metaverso voltado para games. <img align="center" alt="Hq-gif2" height="20" width="30" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI4eWp3bjNtMmtrNHp1ZWNsZjRhbDJvaTNwMnY2Zm42cDJwc2Y4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDqgfaIchB1ra/giphy.gif img/> 
-
-<img align="center" alt="Hq-gif2" height="20" width="30" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVlaWhidzgzN215NnRnNWtsN3YwcHFydmM3cGVoN3BpNmZoaGlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NOOSwLqNqyzTJIDIh/giphy.gif img/>  Pronome: ele/dele. 
+ Pronome: ela/dela. 
 
  ##
  
@@ -60,7 +56,7 @@ Cursando Metaverso voltado para games. <img align="center" alt="Hq-gif2" height=
   <img align="center" alt="Hq-PS" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 
 
-  <img align="center" alt="Hq-Trello" height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img align="center" alt="Hq-Trello" height="30" src=>
 </div>
 
 
@@ -72,7 +68,7 @@ Cursando Metaverso voltado para games. <img align="center" alt="Hq-gif2" height=
    
  <div>
 
- <a href="https://www.linkedin.com/in/alexandre-hq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://br.linkedin.com/in/brenda-loiro-966604177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/@AlexandreHq9106" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href = "mailto:alexandrehenriquehq10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
@@ -80,7 +76,7 @@ Cursando Metaverso voltado para games. <img align="center" alt="Hq-gif2" height=
 
  ##
 
- <img align="center" alt="Hq-gif1" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-gif2" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
+ <img align="center" alt="Hq-gif1" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-gif2" height="200" width="333" src=https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif img/>
 
 <!--
 <div>
