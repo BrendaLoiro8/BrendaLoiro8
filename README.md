@@ -1,4 +1,4 @@
-### Olá! Eu sou o Brendinha Gamer da massa, fique a vontade e uhuuuu...💻
+### Olá! Eu sou o Brenda, fique a vontade 💻
 <p align="center">
 
 #
